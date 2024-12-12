@@ -1,2 +1,1 @@
-# lab-git
-Para la realizacion del lab3
+Laboratorio 3  Control de versiones con git y github
